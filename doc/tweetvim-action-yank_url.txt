@@ -1,0 +1,45 @@
+*vim-TweetVim-action-yank_url* TweetVim plugin: action-yank_url
+
+Version: 0.1.0
+Author: Jagua
+License: MIT License
+
+
+
+==============================================================================
+INTRODUCTION                           *tweetvim-action-yank_url-introduction*
+
+|tweetvim-action-yank_url| is a Vim plugin to yank a tweet url of TweetVim.
+
+
+Requirements:
+- |tweetvim|
+  https://github.com/basyura/TweetVim
+
+Latest version:
+https://github.com/Jagua/vim-TweetVim-action-yank_url
+
+
+
+==============================================================================
+INTERFACE                                 *tweetvim-action-yank_url-interface*
+
+------------------------------------------------------------------------------
+MAPPINGS                                   *tweetvim-action-yank_url-mappings*
+
+
+<Plug>(tweetvim_action_yank_url)            *<Plug>(tweetvim_action_yank_url)*
+        yank a tweet url.
+
+
+
+==============================================================================
+CHANGELOG                                 *tweetvim-action-yank_url-changelog*
+
+0.1.0   2018-08-21
+        - Initial version.
+
+
+
+==============================================================================
+vim:tw=78:ts=8:ft=help:noet:norl:fen:fdl=0:
